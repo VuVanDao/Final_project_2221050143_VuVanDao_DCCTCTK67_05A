@@ -25,7 +25,7 @@
 1. Tải mã nguồn từ repository.
 
    ```bash
-   git clone https://github.com/VuVanDao/Final_project_2221050143_VuVanDao.git
+   git clone https://github.com/VuVanDao/Final_project_2221050143_VuVanDao_DCCTCTK67_05A.git
    ```
 
 2. Cài đặt các dependencies:
@@ -36,7 +36,8 @@
    ```bash
    flutter run
    ```
-4. Kiểm tra ứng dụng trên thiết bị hoặc máy ảo , thực hiện các thao tác CRUD và kiểm tra kết quả..
+4. Kiểm tra ứng dụng trên thiết bị hoặc máy ảo , thực hiện các thao tác CRUD và kiểm tra kết quả.
+
    trang homepage:
    ![Alt text](img/homepage.png)
    phần quản lí ghi, chỉnh sửa, xoá sinh viên  
