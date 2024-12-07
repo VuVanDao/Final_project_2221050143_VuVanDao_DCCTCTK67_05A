@@ -50,3 +50,7 @@
    ```bash
    flutter test
    ```
+
+# Tự chấm điểm
+
+6 điểm
